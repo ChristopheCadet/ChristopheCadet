@@ -1,5 +1,5 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-NewsLetter-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/newsletters/𝐏𝐚𝐫𝐥𝐨𝐧𝐬-𝐀𝐫𝐜𝐡𝐢-6992420949463605248/) 
-[![YouTube](https://img.shields.io/badge/YouTube-Chaine-informational?style=flat&logo=YouTube&logoColor=white&color=FC230C)](https://www.youtube.com/@christophecadet)/) 
+[![YouTube](https://img.shields.io/badge/YouTube-Chaine-informational?style=flat&logo=YouTube&logoColor=white&color=FC230C)](https://www.youtube.com/@christophecadet) 
 
 # Parlons Archi ! 
 
